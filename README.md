@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Thiago 👋
 
-<!--
-**ThiagoEnry/ThiagoEnry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Management student (graduating)  
+💻 Junior Software Developer  
+📍 Rio de Janeiro, Brazil  
 
-Here are some ideas to get you started:
+## 🚀 About me
+I'm a junior developer focused on learning and building practical projects.
+Currently studying programming fundamentals, web development and software logic.
+I enjoy solving problems and learning new technologies every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- HTML5, CSS3
+- JavaScript (in progress)
+- C# (fundamentals)
+- Git & GitHub
+
+## 📚 Currently Learning
+- JavaScript (DOM, APIs)
+- Web development fundamentals
+- Clean code and best practices
+
+## 🌱 Goals
+- Get my first opportunity as a Junior Developer
+- Build a solid portfolio with real projects
+- Grow professionally in software development
+
